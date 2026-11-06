@@ -79,3 +79,10 @@ To host and deploy this repository on your GitHub account, run the following com
     # Push the initial commit to your repository
     git push -u origin main
     ```
+
+---
+
+## 🔒 Intellectual Property & Confidentiality Notice
+**Proprietary & Confidential — All Rights Reserved (© 2026 Erioluwa Ayodeji / 0xtryhardx0).**  
+This software, its architecture, cryptographic workflows, and interface designs are proprietary intellectual property protected under the **Nigerian Copyright Commission (NCC)** Literary/Software Works Registry and international copyright treaties. Viewing this repository for evaluation or demonstration does **not** grant any license to copy, fork, modify, reverse-engineer, white-label, or deploy any part of this system without a prior executed Commercial License Agreement or MoU. See [LICENSE](./LICENSE) for full legal terms.
+
